@@ -14,5 +14,9 @@ export const styles = StyleSheet.create({
     fontSize: 14,
     fontFamily: FONTS.BOLD,
     textTransform: 'uppercase',
+  },
+
+  icon: {
+    marginRight: 12,
   }
 });
